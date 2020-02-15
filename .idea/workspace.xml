@@ -1266,16 +1266,17 @@
     <MESSAGE value="Customize the User Interface for a Recruiting App &#10;&gt; Customize the Position Page Layout" />
     <MESSAGE value="Customize the User Interface for a Recruiting App &#10;&gt; Enable Chatter on the Review Object" />
     <MESSAGE value="Improve Data Quality for a Recruiting App &#10;&gt; Create Cross-Object Formulas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Improve Data Quality for a Recruiting App &#10;&gt; Create Cross-Object Formulas" />
+    <MESSAGE value="mprove Data Quality for a Recruiting App &#10;&gt; Create Validation Rules" />
+    <option name="LAST_COMMIT_MESSAGE" value="mprove Data Quality for a Recruiting App &#10;&gt; Create Validation Rules" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="614" y="134" key="CommitChangelistDialog2" timestamp="1581778943255">
+    <state x="614" y="134" key="CommitChangelistDialog2" timestamp="1581779535850">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="614" y="134" key="CommitChangelistDialog2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1581778943255" />
-    <state x="552" y="272" key="Vcs.Push.Dialog.v2" timestamp="1581778947347">
+    <state x="614" y="134" key="CommitChangelistDialog2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1581779535850" />
+    <state x="552" y="272" key="Vcs.Push.Dialog.v2" timestamp="1581779542847">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1581778947347" />
+    <state x="552" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1581779542847" />
   </component>
 </project>
