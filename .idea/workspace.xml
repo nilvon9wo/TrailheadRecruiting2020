@@ -1260,16 +1260,17 @@
     <MESSAGE value="Build a Data Model for a Recruiting App &#10;&gt; Create Custom Recruiting Fields" />
     <MESSAGE value="Customize the User Interface for a Recruiting App &#10;&gt; Create a Tab for the Review Object" />
     <MESSAGE value="Customize the User Interface for a Recruiting App &#10;&gt; Create an Object-Specific Quick Action" />
-    <option name="LAST_COMMIT_MESSAGE" value="Customize the User Interface for a Recruiting App &#10;&gt; Create an Object-Specific Quick Action" />
+    <MESSAGE value="Customize the User Interface for a Recruiting App &#10;&gt; Customize the Review Page Layout" />
+    <option name="LAST_COMMIT_MESSAGE" value="Customize the User Interface for a Recruiting App &#10;&gt; Customize the Review Page Layout" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="614" y="134" key="CommitChangelistDialog2" timestamp="1581777199425">
+    <state x="614" y="134" key="CommitChangelistDialog2" timestamp="1581777588444">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="614" y="134" key="CommitChangelistDialog2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1581777199425" />
-    <state x="552" y="272" key="Vcs.Push.Dialog.v2" timestamp="1581777202812">
+    <state x="614" y="134" key="CommitChangelistDialog2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1581777588444" />
+    <state x="552" y="272" key="Vcs.Push.Dialog.v2" timestamp="1581777593843">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1581777202812" />
+    <state x="552" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1581777593843" />
   </component>
 </project>
