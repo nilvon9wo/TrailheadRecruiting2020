@@ -1256,16 +1256,17 @@
     <MESSAGE value="Build a Data Model for a Recruiting App &#10;&gt; Create a Custom Object for Reviews" />
     <MESSAGE value="Build a Data Model for a Recruiting App &#10;&gt; Create a Custom Object for Job Posting Sites" />
     <MESSAGE value="Build a Data Model for a Recruiting App &#10;&gt; Create a Custom Junction Object for Job Postings" />
-    <option name="LAST_COMMIT_MESSAGE" value="Build a Data Model for a Recruiting App &#10;&gt; Create a Custom Junction Object for Job Postings" />
+    <MESSAGE value="Build a Data Model for a Recruiting App &#10;&gt; Create a Self Relationship with the Position Object" />
+    <option name="LAST_COMMIT_MESSAGE" value="Build a Data Model for a Recruiting App &#10;&gt; Create a Self Relationship with the Position Object" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="614" y="134" key="CommitChangelistDialog2" timestamp="1581775154418">
+    <state x="614" y="134" key="CommitChangelistDialog2" timestamp="1581775773986">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="614" y="134" key="CommitChangelistDialog2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1581775154418" />
-    <state x="552" y="272" key="Vcs.Push.Dialog.v2" timestamp="1581775162799">
+    <state x="614" y="134" key="CommitChangelistDialog2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1581775773986" />
+    <state x="552" y="272" key="Vcs.Push.Dialog.v2" timestamp="1581775782552">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1581775162799" />
+    <state x="552" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1581775782552" />
   </component>
 </project>

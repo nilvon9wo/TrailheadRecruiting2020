@@ -10,13 +10,48 @@
                 <behavior>Readonly</behavior>
                 <field>Name</field>
             </layoutItems>
-        </layoutColumns>
-        <layoutColumns>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>OwnerId</field>
+                <field>Core_Competencies__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Leadership_Skills__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Experience__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Core_Competencies_Comments__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Leadership_Skills_Comments__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Experience_Comments__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Recommend_for_Hire__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Reason_Recommended__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Interviewer__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Required</behavior>
+                <field>Job_Application__c</field>
             </layoutItems>
         </layoutColumns>
+        <layoutColumns/>
         <style>TwoColumnsTopToBottom</style>
     </layoutSections>
     <layoutSections>
