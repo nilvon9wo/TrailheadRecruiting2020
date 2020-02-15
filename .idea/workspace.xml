@@ -3,12 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8ceaff3d-98e6-4634-9615-23f34dd57979" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cleanDataServices/DataCloudGeoLocation.cleanDataService" beforeDir="false" afterPath="$PROJECT_DIR$/src/cleanDataServices/DataCloudGeoLocation.cleanDataService" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/layouts/Candidate__c-Candidate Layout.layout" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/Candidate__c-Candidate Layout.layout" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/layouts/Case-Case %28Marketing%29 Layout.layout" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/Case-Case %28Marketing%29 Layout.layout" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/layouts/Case-Case %28Sales%29 Layout.layout" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/Case-Case %28Sales%29 Layout.layout" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/layouts/Case-Case %28Support%29 Layout.layout" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/Case-Case %28Support%29 Layout.layout" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/layouts/Case-Case Layout.layout" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/Case-Case Layout.layout" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1265,16 +1259,17 @@
     <MESSAGE value="Build a Data Model for a Recruiting App &#10;&gt; Create a Self Relationship with the Position Object" />
     <MESSAGE value="Build a Data Model for a Recruiting App &#10;&gt; Create Custom Recruiting Fields" />
     <MESSAGE value="Customize the User Interface for a Recruiting App &#10;&gt; Create a Tab for the Review Object" />
-    <option name="LAST_COMMIT_MESSAGE" value="Customize the User Interface for a Recruiting App &#10;&gt; Create a Tab for the Review Object" />
+    <MESSAGE value="Customize the User Interface for a Recruiting App &#10;&gt; Create an Object-Specific Quick Action" />
+    <option name="LAST_COMMIT_MESSAGE" value="Customize the User Interface for a Recruiting App &#10;&gt; Create an Object-Specific Quick Action" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="614" y="134" key="CommitChangelistDialog2" timestamp="1581776551310">
+    <state x="614" y="134" key="CommitChangelistDialog2" timestamp="1581777199425">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="614" y="134" key="CommitChangelistDialog2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1581776551310" />
-    <state x="552" y="272" key="Vcs.Push.Dialog.v2" timestamp="1581776557436">
+    <state x="614" y="134" key="CommitChangelistDialog2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1581777199425" />
+    <state x="552" y="272" key="Vcs.Push.Dialog.v2" timestamp="1581777202812">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1581776557436" />
+    <state x="552" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1581777202812" />
   </component>
 </project>
