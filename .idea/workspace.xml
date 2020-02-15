@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ceaff3d-98e6-4634-9615-23f34dd57979" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="IlluminatedCloudWorkspaceSettings">
+    <option name="moduleWorkspaceSettings">
+      <map>
+        <entry key="Recruiting2020">
+          <value>
+            <ModuleWorkspaceSettings>
+              <option name="moduleContentsLastModified" value="1581758551631" />
+            </ModuleWorkspaceSettings>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XpzfEoYLx0TBRHT45L3uwsvH9m" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="1" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Roaming/npm/node_modules/@vue/cli" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../exercism/scala/accumulate" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../exercism/scala/acronym" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../exercism/scala/all-your-base" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../exercism/scala/allergies" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../exercism/scala/anagram" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../exercism/scala/atbash-cipher" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../exercism/scala/book-store" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../exercism/scala/custom-set" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../exercism/scala/difference-of-squares" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../exercism/scala/flatten-array" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../exercism/scala/gigasecond" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../exercism/scala/isogram" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../exercism/scala/kindergarten-garden" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../exercism/scala/largest-series-product" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../exercism/scala/luhn" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../exercism/scala/matching-brackets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../exercism/scala/matrix" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../exercism/scala/ocr-numbers" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../exercism/scala/palindrome-products" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../exercism/scala/pangram" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../exercism/scala/perfect-numbers" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../exercism/scala/pig-latin" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../exercism/scala/protein-translation" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../exercism/scala/rail-fence-cipher" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../exercism/scala/raindrops" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../exercism/scala/robot-name" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../exercism/scala/roman-numerals" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../exercism/scala/run-length-encoding" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../exercism/scala/saddle-points" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../exercism/scala/scrabble-score" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../exercism/scala/series" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../exercism/scala/sieve" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../exercism/scala/sum-of-multiples" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
