@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ceaff3d-98e6-4634-9615-23f34dd57979" name="Default Changelist" comment="" />
+    <list default="true" id="8ceaff3d-98e6-4634-9615-23f34dd57979" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IlluminatedCloud/Recruiting2020/OfflineSymbolTable.zip" beforeDir="false" afterPath="$PROJECT_DIR$/IlluminatedCloud/Recruiting2020/OfflineSymbolTable.zip" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +13,9 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IlluminatedCloudWorkspaceSettings">
     <option name="moduleWorkspaceSettings">
@@ -27,6 +34,7 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1XpzfEoYLx0TBRHT45L3uwsvH9m" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
     <option name="STATE" value="1" />
   </component>
@@ -37,6 +45,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/AppData/Roaming/npm/node_modules/@vue/cli" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
