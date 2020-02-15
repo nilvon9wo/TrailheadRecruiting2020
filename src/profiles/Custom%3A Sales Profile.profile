@@ -1926,6 +1926,9 @@
         <layout>Job_Posting_Site__c-Job Posting Site Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Job_Posting__c-Job Posting Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Lead-Lead %28Sales%29 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -2156,6 +2159,10 @@
     <tabVisibilities>
         <tab>Job_Posting_Site__c</tab>
         <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Job_Posting__c</tab>
+        <visibility>DefaultOff</visibility>
     </tabVisibilities>
     <tabVisibilities>
         <tab>Position__c</tab>

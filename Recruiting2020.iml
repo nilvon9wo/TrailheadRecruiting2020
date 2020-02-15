@@ -820,6 +820,10 @@
                             <option name="selected" value="true" />
                           </MetadataEntry>
                           <MetadataEntry>
+                            <option name="name" value="Job_Posting__c-en_US" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
                             <option name="name" value="Job_Posting_Site__c-en_US" />
                             <option name="selected" value="true" />
                           </MetadataEntry>
@@ -857,6 +861,10 @@
                           </MetadataEntry>
                           <MetadataEntry>
                             <option name="name" value="Job_Application__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Job_Posting__c" />
                             <option name="selected" value="true" />
                           </MetadataEntry>
                           <MetadataEntry>
@@ -1534,6 +1542,10 @@
                           </MetadataEntry>
                           <MetadataEntry>
                             <option name="name" value="Job_Application__c-Job Application Layout" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Job_Posting__c-Job Posting Layout" />
                             <option name="selected" value="true" />
                           </MetadataEntry>
                           <MetadataEntry>
@@ -3703,6 +3715,10 @@
                           </MetadataEntry>
                           <MetadataEntry>
                             <option name="name" value="Job_Application__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Job_Posting__c" />
                             <option name="selected" value="true" />
                           </MetadataEntry>
                           <MetadataEntry>
