@@ -1336,12 +1336,28 @@
                       <option name="name" value="FlexiPage" />
                     </MetadataType>
                     <MetadataType>
+                      <option name="entries">
+                        <list>
+                          <MetadataEntry>
+                            <option name="name" value="Create_Interviewer_Record" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                        </list>
+                      </option>
                       <option name="name" value="Flow" />
                     </MetadataType>
                     <MetadataType>
                       <option name="name" value="FlowCategory" />
                     </MetadataType>
                     <MetadataType>
+                      <option name="entries">
+                        <list>
+                          <MetadataEntry>
+                            <option name="name" value="Create_Interviewer_Record" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                        </list>
+                      </option>
                       <option name="name" value="FlowDefinition" />
                     </MetadataType>
                     <MetadataType>
