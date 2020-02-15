@@ -11,6 +11,7 @@
     <label>Recruiting 2020</label>
     <navType>Standard</navType>
     <tabs>Review__c</tabs>
+    <tabs>Job_Posting_Site__c</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>Recruiting_2020_UtilityBar</utilityBar>
 </CustomApplication>

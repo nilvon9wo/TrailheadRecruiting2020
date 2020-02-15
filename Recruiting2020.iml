@@ -820,6 +820,10 @@
                             <option name="selected" value="true" />
                           </MetadataEntry>
                           <MetadataEntry>
+                            <option name="name" value="Job_Posting_Site__c-en_US" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
                             <option name="name" value="Position__c-en_US" />
                             <option name="selected" value="true" />
                           </MetadataEntry>
@@ -853,6 +857,10 @@
                           </MetadataEntry>
                           <MetadataEntry>
                             <option name="name" value="Job_Application__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Job_Posting_Site__c" />
                             <option name="selected" value="true" />
                           </MetadataEntry>
                           <MetadataEntry>
@@ -1526,6 +1534,10 @@
                           </MetadataEntry>
                           <MetadataEntry>
                             <option name="name" value="Job_Application__c-Job Application Layout" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Job_Posting_Site__c-Job Posting Site Layout" />
                             <option name="selected" value="true" />
                           </MetadataEntry>
                           <MetadataEntry>
@@ -3229,6 +3241,10 @@
                             <option name="selected" value="true" />
                           </MetadataEntry>
                           <MetadataEntry>
+                            <option name="name" value="Job_Posting_Site__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
                             <option name="name" value="Lead" />
                             <option name="selected" value="true" />
                           </MetadataEntry>
@@ -3687,6 +3703,10 @@
                           </MetadataEntry>
                           <MetadataEntry>
                             <option name="name" value="Job_Application__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Job_Posting_Site__c" />
                             <option name="selected" value="true" />
                           </MetadataEntry>
                           <MetadataEntry>
