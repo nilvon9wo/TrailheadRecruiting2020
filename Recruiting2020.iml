@@ -2284,6 +2284,14 @@
                       <option name="name" value="PathAssistant" />
                     </MetadataType>
                     <MetadataType>
+                      <option name="entries">
+                        <list>
+                          <MetadataEntry>
+                            <option name="name" value="Hiring_Manager" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                        </list>
+                      </option>
                       <option name="name" value="PermissionSet" />
                     </MetadataType>
                     <MetadataType>
