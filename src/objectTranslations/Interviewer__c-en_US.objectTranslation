@@ -8,5 +8,19 @@
         <plural>true</plural>
         <value>Interviewers</value>
     </caseValues>
+    <fields>
+        <label><!-- Employee --></label>
+        <name>Employee__c</name>
+        <relationshipLabel><!-- Interviewers --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Legacy Interviewer Number --></label>
+        <name>Legacy_Interviewer_Number__c</name>
+    </fields>
+    <fields>
+        <label><!-- Position --></label>
+        <name>Position__c</name>
+        <relationshipLabel><!-- Interviewers --></relationshipLabel>
+    </fields>
     <startsWith>Vowel</startsWith>
 </CustomObjectTranslation>

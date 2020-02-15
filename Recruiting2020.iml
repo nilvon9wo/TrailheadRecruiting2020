@@ -311,6 +311,70 @@
                             <option name="selected" value="true" />
                           </MetadataEntry>
                           <MetadataEntry>
+                            <option name="name" value="Candidate__c.City__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Candidate__c.Country__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Candidate__c.Current_Employer__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Candidate__c.Currently_Employed__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Candidate__c.Education__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Candidate__c.Email__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Candidate__c.First_Name__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Candidate__c.Last_Name__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Candidate__c.Legacy_Candidate_Number__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Candidate__c.Mobile__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Candidate__c.Phone__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Candidate__c.State_Province__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Candidate__c.Street_Address_1__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Candidate__c.Street_Address_2__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Candidate__c.Years_of_Experience__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Candidate__c.Zip_Postal_Code__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
                             <option name="name" value="Case.EngineeringReqNumber__c" />
                             <option name="selected" value="true" />
                           </MetadataEntry>
@@ -388,6 +452,74 @@
                           </MetadataEntry>
                           <MetadataEntry>
                             <option name="name" value="Opportunity.TrackingNumber__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Position__c.Approval_Status__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Position__c.Approver_1__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Position__c.Approver_2__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Position__c.Approver_3__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Position__c.Department__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Position__c.Education__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Position__c.Hiring_Manager__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Position__c.Job_Description__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Position__c.Legacy_Position_Number__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Position__c.Location__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Position__c.Operating_Systems__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Position__c.Pay_Grade__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Position__c.Programming_Languages__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Position__c.Related_Position__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Position__c.Salary_Range__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Position__c.Skills_Required__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Position__c.Status__c" />
                             <option name="selected" value="true" />
                           </MetadataEntry>
                         </list>
@@ -629,6 +761,22 @@
                             <option name="selected" value="true" />
                           </MetadataEntry>
                           <MetadataEntry>
+                            <option name="name" value="Interviewer__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Job_Application__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Job_Posting__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Job_Posting_Site__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
                             <option name="name" value="Lead" />
                             <option name="selected" value="true" />
                           </MetadataEntry>
@@ -745,6 +893,10 @@
                             <option name="selected" value="true" />
                           </MetadataEntry>
                           <MetadataEntry>
+                            <option name="name" value="Review__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
                             <option name="name" value="Scorecard" />
                             <option name="selected" value="true" />
                           </MetadataEntry>
@@ -806,6 +958,10 @@
                           </MetadataEntry>
                           <MetadataEntry>
                             <option name="name" value="WorkThanks" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Zip_Code__c" />
                             <option name="selected" value="true" />
                           </MetadataEntry>
                         </list>
@@ -1195,6 +1351,16 @@
                     <MetadataType>
                       <option name="entries">
                         <list>
+                          <MetadataEntry>
+                            <option name="name" value="Position_Request_Responses/Position_Approved" />
+                            <option name="parentFolder" value="Position_Request_Responses" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Position_Request_Responses/Position_Rejected" />
+                            <option name="parentFolder" value="Position_Request_Responses" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
                           <MetadataEntry>
                             <option name="folder" value="true" />
                             <option name="name" value="unfiled$public" />
@@ -1937,6 +2103,10 @@
                             <option name="selected" value="true" />
                           </MetadataEntry>
                           <MetadataEntry>
+                            <option name="name" value="Candidate__c.All" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
                             <option name="name" value="Case.AllClosedCases" />
                             <option name="selected" value="true" />
                           </MetadataEntry>
@@ -2146,6 +2316,10 @@
                           </MetadataEntry>
                           <MetadataEntry>
                             <option name="name" value="PartyConsent.All_PartyConsents" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Position__c.All" />
                             <option name="selected" value="true" />
                           </MetadataEntry>
                           <MetadataEntry>
@@ -3859,6 +4033,14 @@
                     <MetadataType>
                       <option name="entries">
                         <list>
+                          <MetadataEntry>
+                            <option name="name" value="Candidate__c.Zip_Code_Consistent_with_State" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Position__c.Every_Position_Must_Have_a_Hiring_Mgr" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
                           <MetadataEntry>
                             <option name="name" value="User.NoUsernameChangesAllowed" />
                             <option name="selected" value="true" />

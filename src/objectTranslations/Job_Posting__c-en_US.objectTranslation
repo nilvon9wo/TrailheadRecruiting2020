@@ -8,5 +8,15 @@
         <plural>true</plural>
         <value>Job Postings</value>
     </caseValues>
+    <fields>
+        <label><!-- Job Posting Site --></label>
+        <name>Job_Posting_Site__c</name>
+        <relationshipLabel><!-- Job Postings --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Position --></label>
+        <name>Position__c</name>
+        <relationshipLabel><!-- Job Postings --></relationshipLabel>
+    </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

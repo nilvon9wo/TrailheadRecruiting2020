@@ -8,6 +8,14 @@
         <plural>true</plural>
         <value>Zip Codes</value>
     </caseValues>
+    <fields>
+        <label><!-- City --></label>
+        <name>City__c</name>
+    </fields>
+    <fields>
+        <label><!-- State --></label>
+        <name>State__c</name>
+    </fields>
     <layouts>
         <layout>Zip Code Layout</layout>
         <sections>

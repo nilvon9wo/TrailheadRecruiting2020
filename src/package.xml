@@ -67,6 +67,22 @@
         <members>Account.SLASerialNumber__c</members>
         <members>Account.SLA__c</members>
         <members>Account.UpsellOpportunity__c</members>
+        <members>Candidate__c.City__c</members>
+        <members>Candidate__c.Country__c</members>
+        <members>Candidate__c.Current_Employer__c</members>
+        <members>Candidate__c.Currently_Employed__c</members>
+        <members>Candidate__c.Education__c</members>
+        <members>Candidate__c.Email__c</members>
+        <members>Candidate__c.First_Name__c</members>
+        <members>Candidate__c.Last_Name__c</members>
+        <members>Candidate__c.Legacy_Candidate_Number__c</members>
+        <members>Candidate__c.Mobile__c</members>
+        <members>Candidate__c.Phone__c</members>
+        <members>Candidate__c.State_Province__c</members>
+        <members>Candidate__c.Street_Address_1__c</members>
+        <members>Candidate__c.Street_Address_2__c</members>
+        <members>Candidate__c.Years_of_Experience__c</members>
+        <members>Candidate__c.Zip_Postal_Code__c</members>
         <members>Case.EngineeringReqNumber__c</members>
         <members>Case.PotentialLiability__c</members>
         <members>Case.Product__c</members>
@@ -87,6 +103,23 @@
         <members>Opportunity.MainCompetitors__c</members>
         <members>Opportunity.OrderNumber__c</members>
         <members>Opportunity.TrackingNumber__c</members>
+        <members>Position__c.Approval_Status__c</members>
+        <members>Position__c.Approver_1__c</members>
+        <members>Position__c.Approver_2__c</members>
+        <members>Position__c.Approver_3__c</members>
+        <members>Position__c.Department__c</members>
+        <members>Position__c.Education__c</members>
+        <members>Position__c.Hiring_Manager__c</members>
+        <members>Position__c.Job_Description__c</members>
+        <members>Position__c.Legacy_Position_Number__c</members>
+        <members>Position__c.Location__c</members>
+        <members>Position__c.Operating_Systems__c</members>
+        <members>Position__c.Pay_Grade__c</members>
+        <members>Position__c.Programming_Languages__c</members>
+        <members>Position__c.Related_Position__c</members>
+        <members>Position__c.Salary_Range__c</members>
+        <members>Position__c.Skills_Required__c</members>
+        <members>Position__c.Status__c</members>
         <name>CustomField</name>
     </types>
     <types>
@@ -146,6 +179,10 @@
         <members>Idea</members>
         <members>Image</members>
         <members>Individual</members>
+        <members>Interviewer__c</members>
+        <members>Job_Application__c</members>
+        <members>Job_Posting_Site__c</members>
+        <members>Job_Posting__c</members>
         <members>Lead</members>
         <members>LeadCleanInfo</members>
         <members>Macro</members>
@@ -175,6 +212,7 @@
         <members>RecordAction</members>
         <members>RecordMergeHistory</members>
         <members>RevenueElement</members>
+        <members>Review__c</members>
         <members>Scorecard</members>
         <members>ScorecardAssociation</members>
         <members>ScorecardMetric</members>
@@ -191,6 +229,7 @@
         <members>WorkBadge</members>
         <members>WorkBadgeDefinition</members>
         <members>WorkThanks</members>
+        <members>Zip_Code__c</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -286,6 +325,9 @@
         <name>DuplicateRule</name>
     </types>
     <types>
+        <members>Position_Request_Responses</members>
+        <members>Position_Request_Responses/Position_Approved</members>
+        <members>Position_Request_Responses/Position_Rejected</members>
         <members>unfiled$public</members>
         <members>unfiled$public/MarketingProductInquiryResponse</members>
         <members>unfiled$public/SUPPORTSelfServiceNewCommentNotificationSAMPLE</members>
@@ -316,6 +358,14 @@
         <members>LightningService_UtilityBar</members>
         <members>Recruiting_2020_UtilityBar</members>
         <name>FlexiPage</name>
+    </types>
+    <types>
+        <members>Create_Interviewer_Record</members>
+        <name>Flow</name>
+    </types>
+    <types>
+        <members>Create_Interviewer_Record</members>
+        <name>FlowDefinition</name>
     </types>
     <types>
         <members>Department</members>
@@ -430,6 +480,7 @@
         <members>AuthorizationFormText.All_AuthorizationFormText</members>
         <members>Campaign.AllActiveCampaigns</members>
         <members>Campaign.MyActiveCampaigns</members>
+        <members>Candidate__c.All</members>
         <members>Case.AllClosedCases</members>
         <members>Case.AllOpenCases</members>
         <members>Case.MyCases</members>
@@ -483,6 +534,7 @@
         <members>Order.AllDraftOrders</members>
         <members>Order.AllOrders</members>
         <members>PartyConsent.All_PartyConsents</members>
+        <members>Position__c.All</members>
         <members>Product2.AllProducts</members>
         <members>Recommendation.All_Recommendations</members>
         <members>Scorecard.AllScorecards</members>
@@ -797,6 +849,8 @@
         <name>TopicsForObjects</name>
     </types>
     <types>
+        <members>Candidate__c.Zip_Code_Consistent_with_State</members>
+        <members>Position__c.Every_Position_Must_Have_a_Hiring_Mgr</members>
         <members>User.NoUsernameChangesAllowed</members>
         <name>ValidationRule</name>
     </types>
