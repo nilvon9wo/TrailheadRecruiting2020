@@ -72,4 +72,12 @@
         <name>standard__LightningBolt</name>
         <type>CustomApplication</type>
     </appMenuItems>
+    <appMenuItems>
+        <name>Recruiting</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>Recruiting_2020</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
 </AppMenu>
