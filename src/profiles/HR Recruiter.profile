@@ -2135,6 +2135,10 @@
         <enabled>false</enabled>
         <flow>Create_Interviewer_Record</flow>
     </flowAccesses>
+    <flowAccesses>
+        <enabled>false</enabled>
+        <flow>Submit_New_Positions_for_Approval</flow>
+    </flowAccesses>
     <layoutAssignments>
         <layout>Account-Account Layout</layout>
     </layoutAssignments>
