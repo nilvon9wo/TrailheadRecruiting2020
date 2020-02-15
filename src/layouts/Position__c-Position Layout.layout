@@ -22,6 +22,10 @@
                 <behavior>Edit</behavior>
                 <field>Hiring_Manager__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Related_Position__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
@@ -139,6 +143,10 @@
         <fields>Job_Posting_Site__c.Status__c</fields>
         <fields>Job_Posting_Site__c.Technical_Site__c</fields>
         <relatedList>Job_Posting__c.Position__c</relatedList>
+    </relatedLists>
+    <relatedLists>
+        <fields>NAME</fields>
+        <relatedList>Position__c.Related_Position__c</relatedList>
     </relatedLists>
     <showEmailCheckbox>false</showEmailCheckbox>
     <showHighlightsPanel>false</showHighlightsPanel>
