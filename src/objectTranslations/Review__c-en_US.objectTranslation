@@ -27,6 +27,10 @@
             <section>Leadership Skills</section>
         </sections>
         <sections>
+            <label><!-- Position &amp; Candidate --></label>
+            <section>Position &amp; Candidate</section>
+        </sections>
+        <sections>
             <label><!-- Recommendation --></label>
             <section>Recommendation</section>
         </sections>
