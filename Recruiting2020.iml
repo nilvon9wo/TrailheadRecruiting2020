@@ -156,6 +156,14 @@
                       <option name="name" value="Community" />
                     </MetadataType>
                     <MetadataType>
+                      <option name="entries">
+                        <list>
+                          <MetadataEntry>
+                            <option name="name" value="Candidate__c.Includes_Candidate_Name" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                        </list>
+                      </option>
                       <option name="name" value="CompactLayout" />
                     </MetadataType>
                     <MetadataType>
@@ -835,6 +843,10 @@
                             <option name="name" value="Review__c-en_US" />
                             <option name="selected" value="true" />
                           </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Zip_Code__c-en_US" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
                         </list>
                       </option>
                       <option name="name" value="CustomObjectTranslation" />
@@ -1139,6 +1151,10 @@
                             <option name="name" value="trlhdtips__Welcome" />
                             <option name="selected" value="true" />
                           </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Zip_Code__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
                         </list>
                       </option>
                       <option name="name" value="CustomTab" />
@@ -1299,6 +1315,10 @@
                     <MetadataType>
                       <option name="entries">
                         <list>
+                          <MetadataEntry>
+                            <option name="name" value="Candidate_Record_Page" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
                           <MetadataEntry>
                             <option name="name" value="LightningSalesConsole_UtilityBar" />
                             <option name="selected" value="true" />
@@ -1517,6 +1537,10 @@
                             <option name="selected" value="true" />
                           </MetadataEntry>
                           <MetadataEntry>
+                            <option name="name" value="FeedItem-Feed Item Layout" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
                             <option name="name" value="Global-Global Layout" />
                             <option name="selected" value="true" />
                           </MetadataEntry>
@@ -1626,6 +1650,10 @@
                           </MetadataEntry>
                           <MetadataEntry>
                             <option name="name" value="Position__c-Position Layout" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Position__c-Technical Position Layout" />
                             <option name="selected" value="true" />
                           </MetadataEntry>
                           <MetadataEntry>
@@ -1794,6 +1822,10 @@
                           </MetadataEntry>
                           <MetadataEntry>
                             <option name="name" value="WorkThanks-Thanks Layout" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Zip_Code__c-Zip Code Layout" />
                             <option name="selected" value="true" />
                           </MetadataEntry>
                         </list>
@@ -2369,6 +2401,10 @@
                             <option name="selected" value="true" />
                           </MetadataEntry>
                           <MetadataEntry>
+                            <option name="name" value="HR Recruiter" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
                             <option name="name" value="Identity User" />
                             <option name="selected" value="true" />
                           </MetadataEntry>
@@ -2394,6 +2430,14 @@
                           </MetadataEntry>
                           <MetadataEntry>
                             <option name="name" value="ReadOnly" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Recruiter%3A Nontechnical" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Recruiter%3A Technical" />
                             <option name="selected" value="true" />
                           </MetadataEntry>
                           <MetadataEntry>
@@ -2424,6 +2468,10 @@
                       <option name="entries">
                         <list>
                           <MetadataEntry>
+                            <option name="name" value="HR_Recruiter_profilePasswordPolicy1581780252210" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
                             <option name="name" value="PT1_profilePasswordPolicy1479361192949" />
                             <option name="selected" value="true" />
                           </MetadataEntry>
@@ -2434,6 +2482,10 @@
                     <MetadataType>
                       <option name="entries">
                         <list>
+                          <MetadataEntry>
+                            <option name="name" value="HR_Recruiter_profileSessionSetting1581780252281" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
                           <MetadataEntry>
                             <option name="name" value="PT1_profileSessionSetting1479361192857" />
                             <option name="selected" value="true" />
@@ -2451,6 +2503,10 @@
                     <MetadataType>
                       <option name="entries">
                         <list>
+                          <MetadataEntry>
+                            <option name="name" value="Candidate__c.New_Job_App" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
                           <MetadataEntry>
                             <option name="name" value="Case.LogACall" />
                             <option name="selected" value="true" />
@@ -2598,6 +2654,14 @@
                           </MetadataEntry>
                           <MetadataEntry>
                             <option name="name" value="Metric.Progress" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Position__c.Nontechnical_Position" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Position__c.Technical_Position" />
                             <option name="selected" value="true" />
                           </MetadataEntry>
                         </list>
@@ -3420,6 +3484,10 @@
                             <option name="name" value="WorkThanks" />
                             <option name="selected" value="true" />
                           </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Zip_Code__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
                         </list>
                       </option>
                       <option name="name" value="SharingRules" />
@@ -3751,6 +3819,10 @@
                           </MetadataEntry>
                           <MetadataEntry>
                             <option name="name" value="Task" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Zip_Code__c" />
                             <option name="selected" value="true" />
                           </MetadataEntry>
                         </list>

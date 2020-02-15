@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <recordTypes>
+        <fullName>Nontechnical_Position</fullName>
+        <active>true</active>
+        <description>Use this record type for nontechnical positions only.</description>
+        <label>Nontechnical Position</label>
+    </recordTypes>
+    <recordTypes>
+        <fullName>Technical_Position</fullName>
+        <active>true</active>
+        <description>Use this record type for technical positions only.</description>
+        <label>Technical Position</label>
+    </recordTypes>
+</CustomObject>

@@ -19,5 +19,30 @@
             <section>Salary</section>
         </sections>
     </layouts>
+    <layouts>
+        <layout>Technical Position Layout</layout>
+        <sections>
+            <label><!-- Experience &amp; Education --></label>
+            <section>Experience &amp; Education</section>
+        </sections>
+        <sections>
+            <label><!-- Salary --></label>
+            <section>Salary</section>
+        </sections>
+        <sections>
+            <label><!-- Technical Skills --></label>
+            <section>Technical Skills</section>
+        </sections>
+    </layouts>
+    <recordTypes>
+        <description><!-- Use this record type for nontechnical positions only. --></description>
+        <label><!-- Nontechnical Position --></label>
+        <name>Nontechnical_Position</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Use this record type for technical positions only. --></description>
+        <label><!-- Technical Position --></label>
+        <name>Technical_Position</name>
+    </recordTypes>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

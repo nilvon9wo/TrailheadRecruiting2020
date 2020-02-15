@@ -15,5 +15,9 @@
             <section>Experience &amp; Education</section>
         </sections>
     </layouts>
+    <quickActions>
+        <label><!-- New Job App --></label>
+        <name>New_Job_App</name>
+    </quickActions>
     <startsWith>Vowel</startsWith>
 </CustomObjectTranslation>
