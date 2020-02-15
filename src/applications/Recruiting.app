@@ -13,10 +13,12 @@
     <label>Recruiting</label>
     <navType>Standard</navType>
     <tabs>standard-home</tabs>
+    <tabs>Position__c</tabs>
     <tabs>Candidate__c</tabs>
     <tabs>Job_Application__c</tabs>
     <tabs>Interviewer__c</tabs>
-    <tabs>Position__c</tabs>
+    <tabs>Review__c</tabs>
+    <tabs>Job_Posting_Site__c</tabs>
     <tabs>standard-report</tabs>
     <tabs>standard-Dashboard</tabs>
     <tabs>standard-Feed</tabs>
