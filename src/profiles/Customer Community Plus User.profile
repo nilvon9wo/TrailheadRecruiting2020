@@ -2137,6 +2137,10 @@
     </flowAccesses>
     <flowAccesses>
         <enabled>false</enabled>
+        <flow>New_Review</flow>
+    </flowAccesses>
+    <flowAccesses>
+        <enabled>false</enabled>
         <flow>Submit_New_Positions_for_Approval</flow>
     </flowAccesses>
     <layoutAssignments>

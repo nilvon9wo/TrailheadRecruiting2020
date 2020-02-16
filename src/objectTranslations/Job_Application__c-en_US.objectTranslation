@@ -102,4 +102,8 @@
         </sections>
     </layouts>
     <startsWith>Consonant</startsWith>
+    <webLinks>
+        <label><!-- New_Review --></label>
+        <name>New_Review</name>
+    </webLinks>
 </CustomObjectTranslation>

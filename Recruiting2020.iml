@@ -1517,6 +1517,10 @@
                             <option name="selected" value="true" />
                           </MetadataEntry>
                           <MetadataEntry>
+                            <option name="name" value="New_Review" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
                             <option name="name" value="Submit_New_Positions_for_Approval" />
                             <option name="selected" value="true" />
                           </MetadataEntry>
@@ -1532,6 +1536,10 @@
                         <list>
                           <MetadataEntry>
                             <option name="name" value="Create_Interviewer_Record" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="New_Review" />
                             <option name="selected" value="true" />
                           </MetadataEntry>
                           <MetadataEntry>
